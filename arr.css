@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+table{
+ width: auto;
+   margin-top: 70px;
+  
+}
+
+th,td{
+    margin: 20px;
+    padding: 20px;
+}
+
+th{
+    font-weight: bold;
+}
+
+tr:hover{
+    background-color: black;
+    color: white;
+}
